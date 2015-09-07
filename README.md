@@ -1,6 +1,7 @@
 AltisLife-StatusBar
 ===================
-
+##This is out of date and not updated. you can find better ones by Darth Rogue on the Epoch forums and Exile forums
+Remember Osef!
 Adds a small ui status bar on the bottom right
 
 
